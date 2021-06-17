@@ -1,0 +1,1 @@
+Para utilizar a implementação é necessario acessar o executavel Projeto_Eng2.jar na pasta dist no seguinte caminho: Trabalho-Final-\Implementacao\Projeto_Eng2\dist. Caso o executavel não funcione é possível executar o código através da IDE netbeans abrindo o projeto por ela.
